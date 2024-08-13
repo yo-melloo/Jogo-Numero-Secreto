@@ -10,7 +10,7 @@ function exibirTextoNaTela(tag, texto) {
 function exibirMensagemInicial() {
   exibirTextoNaTela(
     "h1",
-    `Desafio do <span style="${highlight}">Número Secreto</span>`
+    `Desafio do <span style="${highlight}">Código Secreto</span>`
   );
   exibirTextoNaTela(
     "p",
